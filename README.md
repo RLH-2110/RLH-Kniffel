@@ -1,3 +1,5 @@
+Readme will be fixed later
+
 This is a small Kniffel (yahtzee) scoring program that I privately made from a request of a person.
 The initial commit was the 5th version of the program.
 
